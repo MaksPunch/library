@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 22,
+      "username": "makspunch",
+      "email": "maks.punch@yandex.ru",
+      "password": "$2b$10$9B/DBgvAg5IcAcka/g1ZWOeSA3ME.jzpCqApictjK4HW48dgVrvYG",
+      "roles": "user"
+    },
+    {
+      "id": 23,
+      "username": "gappi",
+      "email": "tarasovmaks19@gmail.com",
+      "password": "$2b$10$PPbJ3JzynpGt2CvN..C1PeT0YMYVo7FJJ1hJeSCQ3ZXwLqoABMG6u",
+      "roles": "admin"
+    },
+    {
+      "id": 25,
+      "username": "kolya",
+      "email": "stariyperets@gmail.com",
+      "password": "$2b$10$4sFfiBAR/OmmkwkK8TgNl.kzIFfDHgzF8ynWdz32apVnrXqXSwnSm",
+      "roles": "user"
+    }
+  ],
+  "roles": [
+    "user",
+    "admin"
+  ]
+}
