@@ -30,7 +30,7 @@
     "path": "^0.12.7",
     "request": "^2.88.2",
     "swagger-ui": "^4.15.5",
-    "swagger-ui-express": "^4.6.0",
+    "swagger-ui-express": "^4.6.3",
     "winston": "^3.8.2"
   },
   "nodemonConfig": {
